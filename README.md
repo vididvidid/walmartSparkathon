@@ -49,7 +49,7 @@ To get started with **Select to Search**, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/select-to-search.git
+    git clone https://github.com/vididvidid/walmartSparkathon.git
     ```
 
 2. **Set Up Android Studio**:
@@ -92,6 +92,6 @@ We welcome contributions to **Select to Search**! If you’d like to contribute:
 **Select to Search** is licensed under the [MIT License](LICENSE).
 
 ## Made By
-- Yash kumar kasaudhan
+- Yash kumar kasaudhan 
 - Prakhar Kapoor
 - Ayush Gupta
