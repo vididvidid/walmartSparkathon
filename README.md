@@ -29,7 +29,7 @@ Welcome to the **Select to Search** project! This application allows users to ca
 
 ## System Architecture
 
-![System Architecture]([https://github.com/yourusername/select-to-search/raw/main/hello.png](https://github.com/vididvidid/walmartSparkathon/blob/main/Walmart%20Sparkathon.png))
+![System Architecture](https://github.com/vididvidid/walmartSparkathon/blob/main/Walmart%20Sparkathon.png)
 
 
 ## Technologies Used
