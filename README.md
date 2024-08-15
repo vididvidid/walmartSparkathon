@@ -93,5 +93,5 @@ We welcome contributions to **Select to Search**! If you’d like to contribute:
 
 ## Made By
 - Yash kumar kasaudhan 
-- Prakhar Kapoor
+- Prakhar Kapoor 
 - Ayush Gupta
