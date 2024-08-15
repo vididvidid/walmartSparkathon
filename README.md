@@ -1,6 +1,7 @@
 # Select to Search
 
 Welcome to the **Select to Search** project! This application allows users to capture screenshots of their device, select a portion of the image, and search for products on Walmart based on the selected region. The results are displayed directly within the app, making it easy to find specific products or similar items.  
+[![Select to Search Demo](https://img.youtube.com/vi/e65NUKwkpEc/0.jpg)](https://www.youtube.com/watch?v=e65NUKwkpEc "Select to Search Demo")
 
 ## Table of Contents
 
